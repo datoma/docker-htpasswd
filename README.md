@@ -10,4 +10,4 @@ docker run --rm -ti xmartlabs/htpasswd <username> <password> > htpasswd
 
 This will use bcrypt encryption.
 
-clones from https://github.com/xmartlabs/docker-htpasswd
+cloned from https://github.com/xmartlabs/docker-htpasswd
